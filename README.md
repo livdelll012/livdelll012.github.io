@@ -51,9 +51,10 @@
 
 <style>
   /* ============================================================
-     TOKENS
-     A botanical academic palette drawn from ivy, matcha, and stone —
-     with a dusty rose pulled directly from the regalia in the portrait.
+    
+  TOKENS
+     A botanical academic palette.
+  
   ============================================================ */
   :root {
     --ivy:        #263b2a;
@@ -66,9 +67,9 @@
     --cream:      #fbf8ef;
     --paper:      #fffdf7;
     --ink:        #233124;
-    --muted:      #556149;   /* darkened from original for AA contrast on cream/foam */
+    --muted:      #556149;
     --gold:       #c7ad75;
-    --rose:       #c98f86;   /* pulled from the graduation hood in the portrait */
+    --rose:       #c98f86;
     --shadow:     rgba(35, 49, 36, .16);
 
     --font-display: "Fraunces", Georgia, serif;
