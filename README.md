@@ -539,7 +539,7 @@
     minded). Edit this to sound like you before publishing; a philosophy
     statement is one of the few places a reader expects your own voice.
   -->
-  <p class="quote" style="margin-bottom:28px">I teach health policy as something students will use, not just study: real case material, tools they can carry into practice, and space for the students furthest from the center of the room — disabled, first-generation, working — to see their own communities in the material.</p>
+  <p class="quote" style="margin-bottom:28px">I teach health policy as something students will use, not just study: real case material, tools they can carry into practice, and space for the students to see their own communities in the material.</p>
   <div class="timeline">
     <div class="item">
       <div class="year">2026</div>
